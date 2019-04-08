@@ -7,23 +7,22 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
 
+I am currently a dual-enrolled first year student in the Digital Humanities MA Program and a second-year MS student in the Department of Scientific Computing at Florida State University. My focus is on 3D modeling cultural heritage objects and their impact on methods of preservation and museum outreach. I hold a Bachelors of Science degree in Computational Science with a minor in Mathematics from Florida State University.
+<br/>
+<br/>
+My current interests include augmented reality, 3D modeling of landscapes, digital reconstruction, and teaching humanities with 3D modeling in mind. 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:mlnagales.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/xsibe" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="www.linkedin.com/in/marcelina-nagales-83239a92" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	The best way to reach me is through email!
 </div>
 
